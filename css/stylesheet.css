@@ -1,0 +1,37 @@
+.head {
+    height: 100vh;
+    display: flex;
+    background-color:#71AC0C;
+  }
+
+ .welcome{
+    background-color: rgba(255, 0, 0, .50);
+    text-align: center;
+    margin-top: 20%;
+    
+   }
+
+.service-paragraph{
+  
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-top: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 411px){
+  .welcome{
+      margin-top: 50%;
+      background-color: aquamarine;
+  }  
+}

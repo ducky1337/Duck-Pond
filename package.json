@@ -1,0 +1,15 @@
+{
+  "name": "duckpond",
+  "version": "1.0.0",
+  "description": "dashboard for miners",
+  "main": "scripts.js",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "duckman",
+  "license": "ISC"
+}
