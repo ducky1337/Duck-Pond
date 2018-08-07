@@ -22,8 +22,14 @@
 
 
 
-
-
+.bodyText{
+  background-color: rgba(44, 44, 44, 0.781);
+  margin: 25%;
+  padding: 5%;
+  color: cadetblue;
+  text-align: center;
+  font-size: 64px;
+}
 
 
 
